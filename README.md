@@ -52,10 +52,16 @@ Me chamo Guilherme Ribeiro, sou estudante de Sistemas de Informação e desenvol
 <br/>
 
 ### 📊 Estatísticas
+
 <img
     align="left"
-    alt="GitHub Stats"
+    alt="GitHub Status"
     height="200"
     style="padding-right: 10px;"
-    src="[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Guilherme-mrb&theme=tokyonight&include_all_commits=true&locale=pt-br)](https://github.com/stats-organization/github-stats-extended)"
+    src="https://github-stats-extended.vercel.app/api?username=Guilherme-mrb&theme=tokyonight&show_icons=true&include_all_commits=true&locale=pt-br"
+/>
+<img
+    align="left"
+    alt="GitHub Status"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Guilherme-mrb&theme=tokyonight&show_icons=true&custom_title=Tecnologias&include_all_commits=true&locale=pt-br"
 />
