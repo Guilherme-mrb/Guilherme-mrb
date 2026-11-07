@@ -65,3 +65,10 @@ Me chamo Guilherme Ribeiro, sou estudante de Sistemas de Informação e desenvol
     alt="GitHub Status"
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=Guilherme-mrb&theme=tokyonight&show_icons=true&custom_title=Tecnologias&include_all_commits=true&locale=pt-br"
 />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guilherme-mrb/Guilherme-mrb/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guilherme-mrb/Guilherme-mrb/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Guilherme-mrb/Guilherme-mrb/output/pacman-contribution-graph.svg">
+</picture>
+
