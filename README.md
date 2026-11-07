@@ -60,8 +60,10 @@ Me chamo Guilherme Ribeiro, sou estudante de Sistemas de Informação e desenvol
     style="padding-right: 10px;"
     src="https://github-stats-extended.vercel.app/api?username=Guilherme-mrb&theme=tokyonight&show_icons=true&include_all_commits=true&locale=pt-br"
 />
-<img
-    align="left"
-    alt="GitHub Status"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Guilherme-mrb&theme=tokyonight&show_icons=true&custom_title=Tecnologias&include_all_commits=true&locale=pt-br"
-/>
+
+<img 
+      align="left" 
+      alt="GitHub Stats"  
+      src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=Guilherme-mrb&layout=compact&custom_title=Tecnologias&langs_count=8&theme=tokyonight" 
+  />
+
